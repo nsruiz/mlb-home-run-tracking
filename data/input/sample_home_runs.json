@@ -1,0 +1,601 @@
+[{
+            "season": "2025",
+            "stat": {
+                "play": {
+                    "details": {
+                        "call": {
+                            "code": "In Play Runs"
+                        },
+                        "event": "Home Run",
+                        "eventType": "home_run",
+                        "type": {
+                            "code": "CU",
+                            "description": "Curveball"
+                        },
+                        "batSide": {
+                            "code": "L",
+                            "description": "Left"
+                        },
+                        "pitchHand": {
+                            "code": "R",
+                            "description": "Right"
+                        }
+                    },
+                    "count": {
+                        "balls": 2,
+                        "strikes": 1,
+                        "outs": 2,
+                        "inning": 4
+                    },
+                    "playId": "b8f55d56-caaf-3e5c-a8fb-be1c2da89358",
+                    "pitchNumber": 4,
+                    "atBatNumber": 26,
+                    "battingOrder": "5",
+                    "credits": []
+                }
+            },
+            "stats": {
+                "hitting": {
+                    "tracking": {
+                        "exitVelocity": {
+                            "value": 115.6
+                        },
+                        "launchAngle": {
+                            "value": 30.3
+                        },
+                        "homeRunDistance": {
+                            "value": 458.0
+                        },
+                        "hitDistance": {
+                            "value": 458.0
+                        },
+                        "hangTime": {
+                            "value": 6.33
+                        },
+                        "maxHeight": {
+                            "value": 126.0
+                        },
+                        "hitProbability": {
+                            "value": 100.0
+                        },
+                        "catchProbability": {
+                            "value": 0.0
+                        },
+                        "barrels": {
+                            "value": 1
+                        },
+                        "attackAngle": {
+                            "value": 7.7
+                        },
+                        "batSpeed": {
+                            "value": 83.2
+                        },
+                        "homeRunXBallparks": {
+                            "value": 30,
+                            "additionalFields": {
+                                "homeRunVenueIds": [
+                                    2529,
+                                    31,
+                                    2680,
+                                    680,
+                                    2395,
+                                    2889,
+                                    2523,
+                                    5325,
+                                    14,
+                                    3312,
+                                    2681,
+                                    4705,
+                                    4,
+                                    4169,
+                                    3313,
+                                    32,
+                                    1,
+                                    15,
+                                    2,
+                                    3,
+                                    17,
+                                    2602,
+                                    5,
+                                    19,
+                                    2394,
+                                    2392,
+                                    7,
+                                    22,
+                                    3309,
+                                    3289
+                                ]
+                            }
+                        },
+                        "swingLength": {
+                            "value": 7.85
+                        },
+                        "squaredUpPercentage": {
+                            "value": 0.973
+                        },
+                        "barrelPercentage": ".---"
+                    }
+                }
+            },
+            "team": {
+                "id": 134,
+                "name": "Pittsburgh Pirates",
+                "link": "/api/v1/teams/134"
+            },
+            "player": {
+                "id": 665833,
+                "fullName": "Oneil Cruz",
+                "link": "/api/v1/people/665833",
+                "firstName": "Oneil",
+                "lastName": "Cruz"
+            },
+            "venue": {
+                "id": 7,
+                "name": "Kauffman Stadium",
+                "link": "/api/v1/venues/7"
+            },
+            "league": {
+                "id": 104,
+                "name": "National League",
+                "link": "/api/v1/league/104",
+                "abbreviation": "NL"
+            },
+            "sport": {
+                "id": 1,
+                "link": "/api/v1/sports/1",
+                "name": "Major League Baseball",
+                "abbreviation": "MLB"
+            },
+            "date": "2025-07-08",
+            "gameType": "R",
+            "rank": 1,
+            "division": {
+                "id": 205,
+                "name": "National League Central",
+                "link": "/api/v1/divisions/205",
+                "abbreviation": "NLC"
+            },
+            "pitcher": {
+                "id": 607625,
+                "fullName": "Seth Lugo",
+                "link": "/api/v1/people/607625",
+                "firstName": "Jacob",
+                "lastName": "Lugo"
+            },
+            "batter": {
+                "id": 665833,
+                "fullName": "Oneil Cruz",
+                "link": "/api/v1/people/665833",
+                "firstName": "Oneil",
+                "lastName": "Cruz"
+            },
+            "fieldingTeam": {
+                "id": 118,
+                "name": "Kansas City Royals",
+                "link": "/api/v1/teams/118"
+            },
+            "battingTeam": {
+                "id": 134,
+                "name": "Pittsburgh Pirates",
+                "link": "/api/v1/teams/134"
+            },
+            "fieldingSport": {
+                "id": 1,
+                "link": "/api/v1/sports/1",
+                "name": "Major League Baseball",
+                "abbreviation": "MLB"
+            },
+            "battingSport": {
+                "id": 1,
+                "link": "/api/v1/sports/1",
+                "name": "Major League Baseball",
+                "abbreviation": "MLB"
+            },
+            "fieldingLeague": {
+                "id": 103,
+                "name": "American League",
+                "link": "/api/v1/league/103",
+                "abbreviation": "AL"
+            },
+            "battingLeague": {
+                "id": 104,
+                "name": "National League",
+                "link": "/api/v1/league/104",
+                "abbreviation": "NL"
+            },
+            "fieldingDivision": {
+                "id": 202,
+                "name": "American League Central",
+                "link": "/api/v1/divisions/202",
+                "abbreviation": "ALC"
+            },
+            "battingDivision": {
+                "id": 205,
+                "name": "National League Central",
+                "link": "/api/v1/divisions/205",
+                "abbreviation": "NLC"
+            },
+            "position": {
+                "code": "8",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "CF"
+            },
+            "game": {
+                "gamePk": 777194,
+                "gameGuid": "9a3daadf-585c-4970-87bd-acf8ab027f06",
+                "link": "/api/v1.1/game/777194/feed/live",
+                "gameType": "R",
+                "season": "2025",
+                "gameDate": "2025-07-08T23:40:00Z",
+                "officialDate": "2025-07-08",
+                "status": {
+                    "abstractGameState": "Final",
+                    "codedGameState": "F",
+                    "detailedState": "Final",
+                    "statusCode": "F",
+                    "startTimeTBD": false,
+                    "abstractGameCode": "F"
+                },
+                "teams": {
+                    "away": {
+                        "team": {
+                            "id": 134,
+                            "name": "Pittsburgh Pirates",
+                            "link": "/api/v1/teams/134"
+                        },
+                        "leagueRecord": {
+                            "wins": 38,
+                            "losses": 55,
+                            "pct": ".409"
+                        },
+                        "score": 3,
+                        "isWinner": false,
+                        "splitSquad": false,
+                        "seriesNumber": 30
+                    },
+                    "home": {
+                        "team": {
+                            "id": 118,
+                            "name": "Kansas City Royals",
+                            "link": "/api/v1/teams/118"
+                        },
+                        "leagueRecord": {
+                            "wins": 45,
+                            "losses": 48,
+                            "pct": ".484"
+                        },
+                        "score": 4,
+                        "isWinner": true,
+                        "splitSquad": false,
+                        "seriesNumber": 30
+                    }
+                },
+                "venue": {
+                    "id": 7,
+                    "name": "Kauffman Stadium",
+                    "link": "/api/v1/venues/7"
+                },
+                "content": {
+                    "link": "/api/v1/game/777194/content"
+                },
+                "isTie": false,
+                "gameNumber": 1,
+                "publicFacing": true,
+                "doubleHeader": "N",
+                "gamedayType": "P",
+                "tiebreaker": "N",
+                "calendarEventID": "14-777194-2025-07-08",
+                "seasonDisplay": "2025",
+                "dayNight": "night",
+                "scheduledInnings": 9,
+                "reverseHomeAwayStatus": false,
+                "inningBreakLength": 120,
+                "gamesInSeries": 3,
+                "seriesGameNumber": 2,
+                "seriesDescription": "Regular Season",
+                "recordSource": "S",
+                "ifNecessary": "N",
+                "ifNecessaryDescription": "Normal Game"
+            }
+        },
+        {
+            "season": "2025",
+            "stat": {
+                "play": {
+                    "details": {
+                        "call": {
+                            "code": "In Play Runs"
+                        },
+                        "event": "Home Run",
+                        "eventType": "home_run",
+                        "type": {
+                            "code": "CH",
+                            "description": "Changeup"
+                        },
+                        "batSide": {
+                            "code": "L",
+                            "description": "Left"
+                        },
+                        "pitchHand": {
+                            "code": "R",
+                            "description": "Right"
+                        }
+                    },
+                    "count": {
+                        "balls": 1,
+                        "strikes": 1,
+                        "outs": 0,
+                        "inning": 2
+                    },
+                    "playId": "2a1e4403-e92c-35d0-affa-07c5e9fb3ba6",
+                    "pitchNumber": 3,
+                    "atBatNumber": 13,
+                    "battingOrder": "6",
+                    "credits": []
+                }
+            },
+            "stats": {
+                "hitting": {
+                    "tracking": {
+                        "exitVelocity": {
+                            "value": 114.1
+                        },
+                        "launchAngle": {
+                            "value": 19.1
+                        },
+                        "homeRunDistance": {
+                            "value": 421.0
+                        },
+                        "hitDistance": {
+                            "value": 421.0
+                        },
+                        "hangTime": {
+                            "value": 4.08
+                        },
+                        "maxHeight": {
+                            "value": 55.0
+                        },
+                        "hitProbability": {
+                            "value": 93.0
+                        },
+                        "catchProbability": {
+                            "value": 0.0
+                        },
+                        "barrels": {
+                            "value": 1
+                        },
+                        "attackAngle": {
+                            "value": 4.4
+                        },
+                        "batSpeed": {
+                            "value": 82.1
+                        },
+                        "homeRunXBallparks": {
+                            "value": 28,
+                            "additionalFields": {
+                                "homeRunVenueIds": [
+                                    2529,
+                                    31,
+                                    2680,
+                                    680,
+                                    2395,
+                                    2889,
+                                    2523,
+                                    5325,
+                                    14,
+                                    2681,
+                                    4705,
+                                    4,
+                                    4169,
+                                    3313,
+                                    32,
+                                    1,
+                                    15,
+                                    2,
+                                    3,
+                                    17,
+                                    2602,
+                                    5,
+                                    2394,
+                                    2392,
+                                    7,
+                                    22,
+                                    3309,
+                                    3289
+                                ]
+                            }
+                        },
+                        "swingLength": {
+                            "value": 7.98
+                        },
+                        "squaredUpPercentage": {
+                            "value": 0.952
+                        },
+                        "barrelPercentage": ".---"
+                    }
+                }
+            },
+            "team": {
+                "id": 118,
+                "name": "Kansas City Royals",
+                "link": "/api/v1/teams/118"
+            },
+            "player": {
+                "id": 695506,
+                "fullName": "Jac Caglianone",
+                "link": "/api/v1/people/695506",
+                "firstName": "Jeffrey",
+                "lastName": "Caglianone"
+            },
+            "venue": {
+                "id": 7,
+                "name": "Kauffman Stadium",
+                "link": "/api/v1/venues/7"
+            },
+            "league": {
+                "id": 103,
+                "name": "American League",
+                "link": "/api/v1/league/103",
+                "abbreviation": "AL"
+            },
+            "sport": {
+                "id": 1,
+                "link": "/api/v1/sports/1",
+                "name": "Major League Baseball",
+                "abbreviation": "MLB"
+            },
+            "date": "2025-07-08",
+            "gameType": "R",
+            "rank": 2,
+            "division": {
+                "id": 202,
+                "name": "American League Central",
+                "link": "/api/v1/divisions/202",
+                "abbreviation": "ALC"
+            },
+            "pitcher": {
+                "id": 656605,
+                "fullName": "Mitch Keller",
+                "link": "/api/v1/people/656605",
+                "firstName": "Mitch",
+                "lastName": "Keller"
+            },
+            "batter": {
+                "id": 695506,
+                "fullName": "Jac Caglianone",
+                "link": "/api/v1/people/695506",
+                "firstName": "Jeffrey",
+                "lastName": "Caglianone"
+            },
+            "fieldingTeam": {
+                "id": 134,
+                "name": "Pittsburgh Pirates",
+                "link": "/api/v1/teams/134"
+            },
+            "battingTeam": {
+                "id": 118,
+                "name": "Kansas City Royals",
+                "link": "/api/v1/teams/118"
+            },
+            "fieldingSport": {
+                "id": 1,
+                "link": "/api/v1/sports/1",
+                "name": "Major League Baseball",
+                "abbreviation": "MLB"
+            },
+            "battingSport": {
+                "id": 1,
+                "link": "/api/v1/sports/1",
+                "name": "Major League Baseball",
+                "abbreviation": "MLB"
+            },
+            "fieldingLeague": {
+                "id": 104,
+                "name": "National League",
+                "link": "/api/v1/league/104",
+                "abbreviation": "NL"
+            },
+            "battingLeague": {
+                "id": 103,
+                "name": "American League",
+                "link": "/api/v1/league/103",
+                "abbreviation": "AL"
+            },
+            "fieldingDivision": {
+                "id": 205,
+                "name": "National League Central",
+                "link": "/api/v1/divisions/205",
+                "abbreviation": "NLC"
+            },
+            "battingDivision": {
+                "id": 202,
+                "name": "American League Central",
+                "link": "/api/v1/divisions/202",
+                "abbreviation": "ALC"
+            },
+            "position": {
+                "code": "9",
+                "name": "Outfielder",
+                "type": "Outfielder",
+                "abbreviation": "RF"
+            },
+            "game": {
+                "gamePk": 777194,
+                "gameGuid": "9a3daadf-585c-4970-87bd-acf8ab027f06",
+                "link": "/api/v1.1/game/777194/feed/live",
+                "gameType": "R",
+                "season": "2025",
+                "gameDate": "2025-07-08T23:40:00Z",
+                "officialDate": "2025-07-08",
+                "status": {
+                    "abstractGameState": "Final",
+                    "codedGameState": "F",
+                    "detailedState": "Final",
+                    "statusCode": "F",
+                    "startTimeTBD": false,
+                    "abstractGameCode": "F"
+                },
+                "teams": {
+                    "away": {
+                        "team": {
+                            "id": 134,
+                            "name": "Pittsburgh Pirates",
+                            "link": "/api/v1/teams/134"
+                        },
+                        "leagueRecord": {
+                            "wins": 38,
+                            "losses": 55,
+                            "pct": ".409"
+                        },
+                        "score": 3,
+                        "isWinner": false,
+                        "splitSquad": false,
+                        "seriesNumber": 30
+                    },
+                    "home": {
+                        "team": {
+                            "id": 118,
+                            "name": "Kansas City Royals",
+                            "link": "/api/v1/teams/118"
+                        },
+                        "leagueRecord": {
+                            "wins": 45,
+                            "losses": 48,
+                            "pct": ".484"
+                        },
+                        "score": 4,
+                        "isWinner": true,
+                        "splitSquad": false,
+                        "seriesNumber": 30
+                    }
+                },
+                "venue": {
+                    "id": 7,
+                    "name": "Kauffman Stadium",
+                    "link": "/api/v1/venues/7"
+                },
+                "content": {
+                    "link": "/api/v1/game/777194/content"
+                },
+                "isTie": false,
+                "gameNumber": 1,
+                "publicFacing": true,
+                "doubleHeader": "N",
+                "gamedayType": "P",
+                "tiebreaker": "N",
+                "calendarEventID": "14-777194-2025-07-08",
+                "seasonDisplay": "2025",
+                "dayNight": "night",
+                "scheduledInnings": 9,
+                "reverseHomeAwayStatus": false,
+                "inningBreakLength": 120,
+                "gamesInSeries": 3,
+                "seriesGameNumber": 2,
+                "seriesDescription": "Regular Season",
+                "recordSource": "S",
+                "ifNecessary": "N",
+                "ifNecessaryDescription": "Normal Game"
+            }
+        }
+    ]
